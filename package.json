@@ -1,4 +1,4 @@
-TEST_PASTE_123{
+{
   "name": "backend-api",
   "version": "1.0.0",
   "description": "API REST em NestJS + TypeScript + PostgreSQL",
